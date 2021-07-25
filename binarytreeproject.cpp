@@ -2,11 +2,6 @@
 #include<fstream>
 using namespace std;
 
-/*
-Program 3; CS41
-Nicholas Tran
-*/
-
 class Node //class Node
 {
 public:
